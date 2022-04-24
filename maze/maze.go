@@ -4,7 +4,7 @@ import(
       "fmt"
 )
 
-
+//Node02 修改
 
 func main(){
 	 maze :=[][]int{{0,1,0,0,0},{0,0,0,1,0},{0,1,0,1,0},{1,1,1,0,0},{0,1,0,0,1},{0,1,0,0,0}}
@@ -18,7 +18,12 @@ func main(){
 	
 }
 
-//測試maze
+
+//測試maze ok
+
+
+
+
 
 
 // func walk(maze [][]int, start, end point) [][]int{
@@ -76,5 +81,4 @@ func main(){
 
 
 //王大明
-
 
