@@ -16,12 +16,3 @@ func main(){
 	
 }
 
-<<<<<<< HEAD
-//aaaaaaaaa
-//aaaaaaaaa
-//aaaaaaaaa
-//aaaaaaaaa
-//aaaaaaaaa
-//aaaaaaaaa
-=======
->>>>>>> 6cae85bf1972b573903a41b5785ba62289dda987
