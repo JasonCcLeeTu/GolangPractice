@@ -4,12 +4,12 @@ import(
       "fmt"
 )
 
-//Node02 修改
+
 
 func main(){
 	 maze :=[][]int{{0,1,0,0,0},{0,0,0,1,0},{0,1,0,1,0},{1,1,1,0,0},{0,1,0,0,1},{0,1,0,0,0}}
 
-	 steps:=make([]int,len(maze[0]))
+	 steps:=make([]int,len(maze[0])) // test 
 	//steps := make([][]int, len(maze[0]))
 	// for i:=range steps{
 		fmt.Println(steps)
@@ -17,10 +17,6 @@ func main(){
 	//}
 	
 }
-
-
-//測試maze ok
-
 
 
 
