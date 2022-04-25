@@ -9,7 +9,7 @@ import(
 func main(){
 	 maze :=[][]int{{0,1,0,0,0},{0,0,0,1,0},{0,1,0,1,0},{1,1,1,0,0},{0,1,0,0,1},{0,1,0,0,0}}
 
-	 steps:=make([]int,len(maze[0]))
+	 steps:=make([]int,len(maze[0])) //特別
 	//steps := make([][]int, len(maze[0]))
 	// for i:=range steps{
 		fmt.Println(steps)
